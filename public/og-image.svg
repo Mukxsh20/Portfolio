@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#F5EFE6" />
+  <!-- Ruled notebook lines -->
+  <g stroke="#D9CEBE" stroke-width="1.5">
+    <line x1="0" y1="120" x2="1200" y2="120" />
+    <line x1="0" y1="190" x2="1200" y2="190" />
+    <line x1="0" y1="260" x2="1200" y2="260" />
+    <line x1="0" y1="330" x2="1200" y2="330" />
+    <line x1="0" y1="400" x2="1200" y2="400" />
+    <line x1="0" y1="470" x2="1200" y2="470" />
+    <line x1="0" y1="540" x2="1200" y2="540" />
+  </g>
+  <!-- Red margin rule -->
+  <line x1="110" y1="0" x2="110" y2="630" stroke="#C8553D" stroke-opacity="0.45" stroke-width="3" />
+
+  <!-- Tape & Notebook Sheet -->
+  <rect x="148" y="88" width="940" height="454" rx="8" fill="#FFFDF9" stroke="#1F1B16" stroke-width="2.5" />
+  <rect x="540" y="66" width="150" height="38" rx="3" transform="rotate(-2 540 66)" fill="#EFE2C6" fill-opacity="0.9" stroke="#CBBBA0" />
+
+  <text x="196" y="164" fill="#C8553D" font-family="cursive, serif" font-size="30" font-weight="600">Chapter 00 — Field Notebook</text>
+  <text x="196" y="255" fill="#1F1B16" font-family="Georgia, serif" font-size="62" font-weight="700">Hey, I'm Mukesh.</text>
+
+  <!-- Yellow highlighter stroke -->
+  <path d="M196 276C340 272 520 280 715 274" stroke="#F6D860" stroke-width="14" stroke-linecap="round" opacity="0.85" />
+
+  <text x="196" y="348" fill="#4A4137" font-family="system-ui, -apple-system, sans-serif" font-size="28">
+    Final-year CSE student at LPU • Aspiring AI/ML Engineer &amp; Data Analyst
+  </text>
+
+  <g font-family="monospace" font-size="18" fill="#1F1B16">
+    <rect x="196" y="405" width="138" height="42" rx="4" fill="#F5EFE6" stroke="#1F1B16" stroke-dasharray="4 3" />
+    <text x="218" y="432">Python/ML</text>
+    <rect x="352" y="405" width="136" height="42" rx="4" fill="#F5EFE6" stroke="#1F1B16" stroke-dasharray="4 3" />
+    <text x="378" y="432">Power BI</text>
+    <rect x="506" y="405" width="150" height="42" rx="4" fill="#F5EFE6" stroke="#1F1B16" stroke-dasharray="4 3" />
+    <text x="526" y="432">300+ LeetCode</text>
+  </g>
+
+  <text x="196" y="505" fill="#5C5346" font-family="monospace" font-size="18">
+    mukesh20072005@gmail.com  •  github.com/Mukxsh20
+  </text>
+</svg>

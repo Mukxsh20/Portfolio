@@ -1,0 +1,17 @@
+{
+  "updated": "November 2026",
+  "location": "Jalandhar, Punjab (wrapping up final year at LPU)",
+  "learning": [
+    "Writing cleaner RAG evaluation loops (checking retrieval recall before blaming the LLM).",
+    "SQL window functions and query optimization — still catching myself overusing subqueries."
+  ],
+  "building": [
+    "Polishing Smart Hiring & Fraudic repos so anyone cloning them can run inference in two commands.",
+    "Turning messy CSVs into readable Power BI stories without crowding every page with 12 charts."
+  ],
+  "reading": [
+    "Designing Machine Learning Systems — Chip Huyen (reading slowly, taking margin notes).",
+    "Engineering notes on why simple baselines beat over-engineered pipelines in production."
+  ],
+  "currentlyInto": "Teaching small models to admit when they're unsure, and drinking too much chai while debugging Pandas merges."
+}
